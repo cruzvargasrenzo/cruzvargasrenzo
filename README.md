@@ -1,5 +1,5 @@
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:07111F,100:07505A&height=200&section=header&text=CRUZ%20VARGAS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20TECHNOLOGY&descAlignY=58&descSize=15)
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:07111F,100:07505A&height=200&section=header&text=RENZO%20CRUZ%20VARGAS&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CYBERSECURITY%20%7C%20NETWORKING%20%7C%20TECHNOLOGY&descAlignY=58&descSize=15)
 
 # 👨‍💻 Hola, soy Renzo Cruz Vargas
 
